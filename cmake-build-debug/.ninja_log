@@ -1,0 +1,24 @@
+# ninja log v5
+6	532	7388620319057189	CMakeFiles/Forca_onMyOwn.dir/main.c.obj	decdba8d1fb62169
+632	1473	7409595225455778	Forca_onMyOwn.exe	39c60156f7ceb705
+7	630	7409595218290733	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+7	336	7409597278536106	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+338	869	7409597283380091	Forca_onMyOwn.exe	39c60156f7ceb705
+7	838	7409599326361688	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+841	1226	7409599329849680	Forca_onMyOwn.exe	39c60156f7ceb705
+6	247	7409600006258515	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+249	548	7409600009029762	Forca_onMyOwn.exe	39c60156f7ceb705
+8	396	7409608133358637	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+398	831	7409608137141286	Forca_onMyOwn.exe	39c60156f7ceb705
+8	1511	7410304638577031	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+1514	2632	7410304648838196	Forca_onMyOwn.exe	39c60156f7ceb705
+5	339	7410308721965095	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+341	736	7410308725235825	Forca_onMyOwn.exe	39c60156f7ceb705
+8	905	7410394774636051	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+908	3787	7410394803334222	Forca_onMyOwn.exe	39c60156f7ceb705
+7	681	7410400345406178	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+683	1362	7410400351845901	Forca_onMyOwn.exe	39c60156f7ceb705
+8	489	7410403887379681	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+492	1462	7410403893304333	Forca_onMyOwn.exe	39c60156f7ceb705
+6	384	7410405063138357	CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj	67c7821e99db14eb
+385	1234	7410405071049189	Forca_onMyOwn.exe	39c60156f7ceb705
