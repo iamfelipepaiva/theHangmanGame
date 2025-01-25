@@ -1,6 +1,6 @@
 # THE HANGMAN
 
-College discipline final project developed individually as a personal challenge.
+College discipline final project developed mostly individually as a personal challenge.
 
 This game aims at offering another digital entertainment option to people with some level alphabetization through two possible modalities: Individual or in pair.
 

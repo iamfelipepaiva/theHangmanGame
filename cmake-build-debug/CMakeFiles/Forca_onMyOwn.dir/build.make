@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\Desktop\theHangmanByMyself
+CMAKE_SOURCE_DIR = C:\Users\User\Desktop\theHangmanGame
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\User\Desktop\theHangmanGame\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Forca_onMyOwn.dir/depend.make
@@ -69,32 +69,32 @@ include CMakeFiles/Forca_onMyOwn.dir/progress.make
 include CMakeFiles/Forca_onMyOwn.dir/flags.make
 
 CMakeFiles/Forca_onMyOwn.dir/main.c.obj: CMakeFiles/Forca_onMyOwn.dir/flags.make
-CMakeFiles/Forca_onMyOwn.dir/main.c.obj: C:/Users/User/Desktop/theHangmanByMyself/main.c
+CMakeFiles/Forca_onMyOwn.dir/main.c.obj: C:/Users/User/Desktop/theHangmanGame/main.c
 CMakeFiles/Forca_onMyOwn.dir/main.c.obj: CMakeFiles/Forca_onMyOwn.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Forca_onMyOwn.dir/main.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Forca_onMyOwn.dir/main.c.obj -MF CMakeFiles\Forca_onMyOwn.dir\main.c.obj.d -o CMakeFiles\Forca_onMyOwn.dir\main.c.obj -c C:\Users\User\Desktop\theHangmanByMyself\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\theHangmanGame\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Forca_onMyOwn.dir/main.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Forca_onMyOwn.dir/main.c.obj -MF CMakeFiles\Forca_onMyOwn.dir\main.c.obj.d -o CMakeFiles\Forca_onMyOwn.dir\main.c.obj -c C:\Users\User\Desktop\theHangmanGame\main.c
 
 CMakeFiles/Forca_onMyOwn.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Forca_onMyOwn.dir/main.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\Desktop\theHangmanByMyself\main.c > CMakeFiles\Forca_onMyOwn.dir\main.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\Desktop\theHangmanGame\main.c > CMakeFiles\Forca_onMyOwn.dir\main.c.i
 
 CMakeFiles/Forca_onMyOwn.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Forca_onMyOwn.dir/main.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\Desktop\theHangmanByMyself\main.c -o CMakeFiles\Forca_onMyOwn.dir\main.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\Desktop\theHangmanGame\main.c -o CMakeFiles\Forca_onMyOwn.dir\main.c.s
 
 CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj: CMakeFiles/Forca_onMyOwn.dir/flags.make
-CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj: C:/Users/User/Desktop/theHangmanByMyself/forca_OnMyOwn.c
+CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj: C:/Users/User/Desktop/theHangmanGame/forca_OnMyOwn.c
 CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj: CMakeFiles/Forca_onMyOwn.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj -MF CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.obj.d -o CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.obj -c C:\Users\User\Desktop\theHangmanByMyself\forca_OnMyOwn.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\theHangmanGame\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj -MF CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.obj.d -o CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.obj -c C:\Users\User\Desktop\theHangmanGame\forca_OnMyOwn.c
 
 CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\Desktop\theHangmanByMyself\forca_OnMyOwn.c > CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\Desktop\theHangmanGame\forca_OnMyOwn.c > CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.i
 
 CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\Desktop\theHangmanByMyself\forca_OnMyOwn.c -o CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\Desktop\theHangmanGame\forca_OnMyOwn.c -o CMakeFiles\Forca_onMyOwn.dir\forca_OnMyOwn.c.s
 
 # Object files for target Forca_onMyOwn
 Forca_onMyOwn_OBJECTS = \
@@ -110,7 +110,7 @@ Forca_onMyOwn.exe: CMakeFiles/Forca_onMyOwn.dir/build.make
 Forca_onMyOwn.exe: CMakeFiles/Forca_onMyOwn.dir/linkLibs.rsp
 Forca_onMyOwn.exe: CMakeFiles/Forca_onMyOwn.dir/objects1.rsp
 Forca_onMyOwn.exe: CMakeFiles/Forca_onMyOwn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Forca_onMyOwn.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Desktop\theHangmanGame\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Forca_onMyOwn.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Forca_onMyOwn.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/Forca_onMyOwn.dir/clean:
 .PHONY : CMakeFiles/Forca_onMyOwn.dir/clean
 
 CMakeFiles/Forca_onMyOwn.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Desktop\theHangmanByMyself C:\Users\User\Desktop\theHangmanByMyself C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug C:\Users\User\Desktop\theHangmanByMyself\cmake-build-debug\CMakeFiles\Forca_onMyOwn.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Desktop\theHangmanGame C:\Users\User\Desktop\theHangmanGame C:\Users\User\Desktop\theHangmanGame\cmake-build-debug C:\Users\User\Desktop\theHangmanGame\cmake-build-debug C:\Users\User\Desktop\theHangmanGame\cmake-build-debug\CMakeFiles\Forca_onMyOwn.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Forca_onMyOwn.dir/depend
 

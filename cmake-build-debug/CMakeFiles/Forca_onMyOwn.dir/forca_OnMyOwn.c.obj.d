@@ -1,6 +1,6 @@
 CMakeFiles/Forca_onMyOwn.dir/forca_OnMyOwn.c.obj: \
- C:\Users\User\Desktop\theHangmanByMyself\forca_OnMyOwn.c \
- C:\Users\User\Desktop\theHangmanByMyself\forca_OnMyOwn.h \
+ C:\Users\User\Desktop\theHangmanGame\forca_OnMyOwn.c \
+ C:\Users\User\Desktop\theHangmanGame\forca_OnMyOwn.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \

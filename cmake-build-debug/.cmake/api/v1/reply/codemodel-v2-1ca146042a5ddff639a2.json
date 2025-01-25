@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/User/Desktop/theHangmanByMyself/cmake-build-debug",
-		"source" : "C:/Users/User/Desktop/theHangmanByMyself"
+		"build" : "C:/Users/User/Desktop/theHangmanGame/cmake-build-debug",
+		"source" : "C:/Users/User/Desktop/theHangmanGame"
 	},
 	"version" : 
 	{

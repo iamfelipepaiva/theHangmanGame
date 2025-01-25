@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/User/Desktop/theHangmanByMyself/cmake-build-debug"
+			"value" : "c:/Users/User/Desktop/theHangmanGame/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/Desktop/theHangmanByMyself/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/User/Desktop/theHangmanGame/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/User/Desktop/theHangmanByMyself"
+			"value" : "C:/Users/User/Desktop/theHangmanGame"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1167,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/Desktop/theHangmanByMyself/cmake-build-debug"
+			"value" : "C:/Users/User/Desktop/theHangmanGame/cmake-build-debug"
 		},
 		{
 			"name" : "Forca_onMyOwn_IS_TOP_LEVEL",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/Desktop/theHangmanByMyself"
+			"value" : "C:/Users/User/Desktop/theHangmanGame"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
